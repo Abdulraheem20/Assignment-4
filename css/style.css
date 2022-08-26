@@ -1,0 +1,119 @@
+.header1{
+    background-color: white;
+    height: 55px;
+    padding-right: 20px;
+}
+.navs{
+    display: flex;
+    justify-content: space-between;
+}
+.section1{
+    display: flex;
+}
+.div1{
+
+}
+.img1{
+    width: 50px;
+    margin: 10px;
+}
+.div2{
+   /* margin-bottom: 5px; */
+    line-height: 0.4;
+    
+}
+.ul1{
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+}
+.ul1 a{
+    text-decoration: none;
+    
+}
+.main{
+    background-color: aqua;
+    background-image: url(../image/lasop1.png);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    /* position: relative; */
+}
+.div5{
+    display: flex;
+    gap: 200px;
+    margin-left: 20px;
+}
+.div6{
+    color: white;
+    gap: 20px 30px;
+}
+.address{
+    list-style-type: none;
+    position: relative; top: 50px;
+    text-align-last:right;
+    color: white;
+    line-height: 30px;
+
+}
+.ul2 li{
+    list-style-type: none;
+    position: relative; top: 35px;
+    line-height: 30px;
+}
+.section3{
+    
+    width: 350px;
+    padding: 50px;
+}
+.input3{
+    width: 337px;
+    height: 30px;
+}
+.input4{
+    width: 337px;
+    height: 30px;
+}
+.input1{
+    height: 30px;
+}
+.input2{
+    height: 30px;
+}
+.button{
+    background-color: rgb(11, 171, 239);
+    color: white;
+    width: 345px;
+    height: 40px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.fieldset{
+    background-color: white;
+    margin-right: 100px;
+}
+.span1{
+    display: block;
+}
+.span2{
+    display: block;
+}
+.pi{
+    color: white;
+}
+.div8{
+    gap: 20px 30px;
+}
+.div4{
+    margin-left: 20px;
+}
+.h2i{
+    font-family: sans-serif;
+}
+.navs{
+    position: relative; top: -10px;
+}
+.div9{
+    column-gap: 20px;
+}
